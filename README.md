@@ -4,7 +4,11 @@
 
 ## Sobre mí
 
-Soy un desarrollador fullstack apasionado por crear aplicaciones web interactivas y responsivas. Mi experiencia abarca diversas tecnologías como JavaScript, React, MongoDB, HTML, CSS, Next.js, Node.js, Express y Git. Disfruto trabajando en equipo y enfocándome en el desarrollo de aplicaciones web con altos estándares de calidad y las mejores prácticas de la industria.
+I'm a passionate full-stack developer dedicated to crafting interactive and responsive applications. The technologies I use includes JavaScript, React, MongoDB, HTML, CSS, Next.js, Node.js, Express, Firebase, and GitHub. I'm constantly expanding my skills and knowledge, focusing on high-quality web development with industry best practices.
+
+I'm a committed and empathetic individual who thrives in high-pressure work environments, allowing me to adapt to any team's goals and development objectives.
+
+I'm looking for new opportunities to continue expanding my knowledge, skills, and experience. I'm eager to learn new technologies and continue my journey as a full-stack developer.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
