@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Hola, soy Lucas 👋</h1>
+  <h1 align="center">Hi, Im Lucas 👋</h1>
 </div>
 
-## Sobre mí
+## About me
 
 I'm a passionate full-stack developer dedicated to crafting interactive and responsive applications. The technologies I use includes JavaScript, React, MongoDB, HTML, CSS, Next.js, Node.js, Express, Firebase, and GitHub. I'm constantly expanding my skills and knowledge, focusing on high-quality web development with industry best practices.
 
@@ -19,9 +19,9 @@ I'm looking for new opportunities to continue expanding my knowledge, skills, an
   </a>
 </p>
 
-### Contacto
+### Contact
 
-- Correo electrónico: lucasfernandezc@outlook.com
+- Email: lucasfernandezc@outlook.com
 
-¡No dudes en explorar mis proyectos y contactarme para colaboraciones o cualquier consulta!
+
 
