@@ -10,6 +10,8 @@ I'm a committed and empathetic individual who thrives in high-pressure work envi
 
 I'm looking for new opportunities to continue expanding my knowledge, skills, and experience. I'm eager to learn new technologies and continue my journey as a full-stack developer.
 
+Currently, I am learning React Native and Expo, focusing on cross-platform mobile applications.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
